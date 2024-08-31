@@ -1,0 +1,22 @@
+body {
+    color: #ff0000;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: crimson;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 18px;
+}
